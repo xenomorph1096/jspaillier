@@ -1,3 +1,5 @@
+Fork of [mhe/jspaillier](https://github.com/mhe/jspaillier) to implement the modified paillier cryptosystem described in [this paper](https://dl.acm.org/doi/abs/10.1145/3321705.3329816)
+
 jspaillier
 ==========
 
